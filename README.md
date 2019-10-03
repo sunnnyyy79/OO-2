@@ -69,5 +69,3 @@
         }
 
     }
-
-![mickey](MICKEY.jpg "mickey")
