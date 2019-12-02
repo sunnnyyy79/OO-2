@@ -1,4 +1,4 @@
-Interface Shape
+interface Shape
 {
   Abstract void getArea()
 }
