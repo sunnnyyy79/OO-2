@@ -1,6 +1,6 @@
 interface Shape
 {
-  Abstract void getArea()
+  abstract void getArea()
 }
 
 class Rectangle implements Shape
@@ -18,7 +18,7 @@ class Rectangle implements Shape
     system.out.println(“Rectangle=”+width*length);
   }
 
-  Public String toString()
+  public String toString()
   {
   return “Area = “;
   }
