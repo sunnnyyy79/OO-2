@@ -15,7 +15,7 @@ class Rectangle implements Shape
 
   public void getArea()
   {
-    system.out.println(“Rectangle=”+width*length);
+    system.out.println("Rectangle="+width*length);
   }
 
   public String toString()
@@ -37,7 +37,7 @@ class Triangle implements Shape
 
   public void getArea()
   {
-    system.out.println(“Triangle=”+base*height*0.5);
+    system.out.println("Triangle="+base*height*0.5);
   }
 
 }
