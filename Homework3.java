@@ -1,7 +1,7 @@
 class Student
 {
-Course[]courses=new Course[10];
+  Course[]courses=new Course[10];
 }
-calss Course
+class Course
 {
 }
